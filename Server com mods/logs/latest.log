@@ -1,34 +1,72 @@
-[18:35:56] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:35:56] [Server thread/INFO]: Loading properties
-[18:35:56] [Server thread/INFO]: Default game type: SURVIVAL
-[18:35:56] [Server thread/INFO]: Generating keypair
-[18:35:56] [Server thread/INFO]: Starting Minecraft server on 25.12.235.8:25565
-[18:35:56] [Server thread/INFO]: Using default channel type
-[18:35:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:35:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:35:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:35:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:35:56] [Server thread/INFO]: Preparing level "TheFreakingServer"
-[18:35:56] [Server thread/INFO]: Loaded 488 advancements
-[18:35:57] [Server thread/INFO]: Preparing start region for level 0
-[18:35:58] [Server thread/INFO]: Preparing spawn area: 11%
-[18:35:59] [Server thread/INFO]: Preparing spawn area: 21%
-[18:36:00] [Server thread/INFO]: Preparing spawn area: 33%
-[18:36:01] [Server thread/INFO]: Preparing spawn area: 48%
-[18:36:02] [Server thread/INFO]: Preparing spawn area: 65%
-[18:36:03] [Server thread/INFO]: Preparing spawn area: 84%
-[18:36:04] [Server thread/INFO]: Done (7,626s)! For help, type "help" or "?"
-[18:36:04] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[18:36:18] [Server thread/INFO]: B1n1_[/25.12.235.8:60553] logged in with entity id 1968 at (-138.5, 64.0, 230.5)
-[18:36:18] [Server thread/INFO]: B1n1_ joined the game
-[18:36:38] [Server thread/INFO]: [B1n1_: Set own game mode to Creative Mode]
-[18:36:45] [Server thread/INFO]: [B1n1_: Set own game mode to Survival Mode]
-[18:37:11] [Server thread/INFO]: Stopping the server
-[18:37:11] [Server thread/INFO]: Stopping server
-[18:37:11] [Server thread/INFO]: Saving players
-[18:37:11] [Server thread/INFO]: Saving worlds
-[18:37:11] [Server thread/INFO]: Saving chunks for level 'TheFreakingServer'/overworld
-[18:37:11] [Server thread/INFO]: Saving chunks for level 'TheFreakingServer'/the_nether
-[18:37:11] [Server thread/INFO]: Saving chunks for level 'TheFreakingServer'/the_end
-[18:37:12] [Server Shutdown Thread/INFO]: Stopping server
-[18:37:12] [Server Shutdown Thread/INFO]: Saving players
+[01:31:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:31:18] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[01:31:18] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_371, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[01:31:19] [main/INFO] [FML]: Searching C:\Users\Cleomar\Desktop\Server de mine\MinecraftServerWithMods\Server com mods\.\mods for mods
+[01:31:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:31:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:31:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:31:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:31:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:31:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:31:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:31:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:31:28] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[01:31:28] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:31:28] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:31:29] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:31:29] [Server thread/INFO] [FML]: Config directory created successfully
+[01:31:29] [Server thread/INFO] [FML]: Searching C:\Users\Cleomar\Desktop\Server de mine\MinecraftServerWithMods\Server com mods\.\mods for mods
+[01:31:29] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[01:31:29] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:31:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[01:31:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[01:31:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:31:31] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[01:31:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:31:31] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:31:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:31:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:31:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:31:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:31:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:31:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:31:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:31:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:31:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:31:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:31:31] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:31:31] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:31:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:31:32] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[01:31:33] [Server thread/INFO] [FML]: Applying holder lookups
+[01:31:33] [Server thread/INFO] [FML]: Holder lookups applied
+[01:31:33] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:31:33] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:31:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[01:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:31:33] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5a9ce2d3)
+[01:31:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[01:31:34] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[01:31:34] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a9ce2d3)
+[01:31:34] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a9ce2d3)
+[01:31:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:31:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
+[01:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3,251s)! For help, type "help" or "?"
+[01:31:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:31:36] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:31:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:31:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:31:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:31:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:31:47] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:31:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
